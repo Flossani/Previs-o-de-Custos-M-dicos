@@ -75,4 +75,4 @@ Este projeto utiliza dados de seguros de saúde para treinar um modelo de machin
 ### Observações
 - Certifique-se de que o arquivo `model/pipeline_rf.joblib` foi gerado antes de buildar a imagem Docker.
 - O modelo espera que os dados estejam já codificados conforme o treinamento (veja os valores possíveis para cada campo).
-- Para treinar novamente, utilize o notebook `Tech_Challange_1.ipynb`.
+- Para treinar novamente, utilize o notebook `Machine_learning_e_Data_Analytics.ipynb`.
